@@ -1,0 +1,4 @@
+public Customer{
+    int ass;
+    
+}
